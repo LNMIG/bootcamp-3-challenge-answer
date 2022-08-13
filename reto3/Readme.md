@@ -50,4 +50,4 @@
 
 - Crear Dockerfile
 
-- Subir Registry DockerHub
+- Subir Registry DockerHub 
